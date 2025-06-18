@@ -1,8 +1,6 @@
 ## 👋 Glad you found your way here
 
-- 🔭 Working on [PingBASE](https://github.com/pingbase)
-- 🌱 I’m currently learning **Go and JavaScript**
-- 📫 How to reach me: [@Ming](mailto:yangming@pingbase.cn)
+- 🌱 I’m currently learning **Go and TypeScript**
 - ⚡ Fun fact: "Live the life you love, and love the life you live!"
 
 ## My Skills
