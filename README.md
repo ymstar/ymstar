@@ -1,3 +1,9 @@
+<div align="center">
+<img src="https://ymstar.cn/photo.png" align="center" style="width: 50%" />
+</div>  
+
+<br/> 
+
 ### <div align="center">我是阿呆，很高兴遇到你 👋</div>  
   
 
@@ -9,14 +15,7 @@
 
 - 💰 尝试一切可合法搞钱的方法，追求“睡后收入”  
   
-
-<div align="center">
-<img src="https://ymstar.cn/photo.png" align="center" style="width: 50%" />
-</div>  
-  
-
 <br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -94,23 +93,15 @@
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=ymstar&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=ymstar&show_icons=true&include_all_commits=true&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api?username=ymstar&show_icons=true&include_all_commits=true&theme=ambient_gradient)
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ymstar&hide_border=true&layout=compact" align="left" style="width: 100%" />
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=ymstar&layout=compact&langs_count=4&theme=ambient_gradient)](https://github-stats-extended.vercel.app/api/top-langs?username=ymstar&layout=compact&langs_count=4&theme=ambient_gradient)
 
 </td></tr></table>  
-  
 
 <br/>  
-
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
