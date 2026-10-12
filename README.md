@@ -11,7 +11,7 @@
   
 
 <div align="center">
-<img src="https://ymstar.cn/photo.png" align="center" style="width: 100%" />
+<img src="https://ymstar.cn/photo.png" align="center" style="width: 50%" />
 </div>  
   
 
@@ -105,13 +105,6 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=ymstar&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
