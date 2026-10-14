@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.png" width="80%" alt="banner"/>
+<img src="https://ymstar.cn/photo.png" align="center" style="width: 50%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1200&color=D4AF37&center=true&vCenter=true&width=700&lines=%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%98%AF%E9%98%BF%E5%91%86;%E5%90%8E%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%B8%88%EF%BC%8C%E6%AD%A3%E5%9C%A8%E5%90%91%E5%85%A8%E6%A0%88%E8%BF%9B%E5%8C%96;%E6%AF%8F%E5%A4%A9%E9%83%BD%E5%9C%A8%E5%92%8C%20AI%20%E6%8A%A2%E9%A5%AD%E5%90%83;%E5%B0%9D%E8%AF%95%E4%B8%80%E5%88%87%E5%90%88%E6%B3%95%E6%90%9E%E9%92%B1%E7%9A%84%E6%96%B9%E6%B3%95" alt="Typing SVG"/>
@@ -62,7 +62,3 @@
 </div>
 
 <br/>
-
-<div align="center">
-<img src="https://ymstar.cn/photo.png" align="center" style="width: 60%" />
-</div>  
